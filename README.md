@@ -27,7 +27,6 @@ Cuenta con 1 instalación pero solo será instalada si es necesaria. Con esta he
 <li><a href="http://www.asciikunst.com/">Página: AsciiKunst</font></a></li>
 <li><a href="http://patorjk.com/software/taag/#p=display&f=Graffiti&t=T-banner5">Página: Patorjk</font></a></li>
 <li><a href="https://www.asciiart.eu/">Página: Ascciart</font></a></li>
-<li><a href="https://github.com/DeepSociety">DeepSociety</font></a></li>
 <li><a href="http://www.asciiworld.com/">Página: Asciiworld</font></a></li>
 <li><a href="https://asciiart.website/">Página: Asciiart</font></a></li>
 <li><a href="https://textfancy.com/">Página: Textfancy</font></a></li>
